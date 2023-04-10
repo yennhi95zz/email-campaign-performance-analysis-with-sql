@@ -74,7 +74,7 @@ In this notebook, we will use **SQLite** to execute the commands in Jupyter Note
 
 The solutions to the problems are explained in the notebook, along with the SQL queries used to solve them.
 
-## References:
+## References
 - Github Report - [HERE](https://github.com/yennhi95zz/email-campaign-performance-analysis-with-sql)
 - Kaggle Project - [HERE](https://www.kaggle.com/nhiyen/email-campaign-performance-analysis-with-sql)
 - Full explanation on [MEDIUM](https://medium.com/@yennhi95zz/understanding-email-campaign-performance-using-sql-a-guide-for-campaign-analysts-6407b9a60f98)
