@@ -9,6 +9,12 @@ In today's digital age, email marketing remains an essential tool for businesses
 
 This repository provides a guide on how to use SQL to analyze email campaign performance and extract insights that can help optimize future campaigns. The repository contains a Jupyter Notebook with SQL queries to solve three different problems related to email campaign performance.
 
+## Tech Skills
+
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
+
 ## Table Structure
 We have 4 tables to study the email performance of a campaign:
 
@@ -74,4 +80,3 @@ The solutions to the problems are explained in the notebook, along with the SQL 
 - Full explanation on [MEDIUM](https://medium.com/@yennhi95zz/understanding-email-campaign-performance-using-sql-a-guide-for-campaign-analysts-6407b9a60f98)
 
 Follow "Nhi Yen" for future updates!
-```
