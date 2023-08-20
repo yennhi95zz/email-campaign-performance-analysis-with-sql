@@ -68,7 +68,8 @@ We will tackle the following problems:
 2. Find the average open rate and click-through rate relative to the individual campaign & their delivery date.
 3. Gauge the overall performance of the campaign based on product category (Instacash, RoarMoney) and only considering opens and clicks within 3 days from delivery date as successful performance towards the campaign.
 4. Find the average time between the 2nd and 3rd email for each individual product on an overall level.
-Solution
+
+## Solution
 
 In this notebook, we will use **SQLite** to execute the commands in Jupyter Notebook. You can also use SQLite in https://sqliteonline.com/ to execute. For your reference, we will provide a link on how to use `ipython-sql` in Jupyter Notebook.
 
